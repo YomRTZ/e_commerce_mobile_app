@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # e_commerce_app
 
 A new Flutter project.
@@ -18,3 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # e_commerce_mobile_app
 >>>>>>> b8d233132770397da6e97b914473001df9d49c7c
+=======
+# e_commerce_mobile_app
+flutter with Free Fake REST API for Placeholder JSON Data from DummyJSON
+>>>>>>> e0bcc1a4310ed30ad1e8f76e4d56bd7e1030c757
