@@ -1,0 +1,10 @@
+BlocBuilder<ProductBloc, ProductState>(builder: (context, state) {
+              if (state is ProductLoadingState) {
+                return Center(child: CircularProgressIndicator());
+              } else if (state is ProductSuccessState) {
+                   final product = state.productData;
+                   print("product:${product}");
+              
+              }
+              return Center(child: Text("No posts available."));
+            })
