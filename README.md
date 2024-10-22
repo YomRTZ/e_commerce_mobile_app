@@ -1,25 +1,32 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# e_commerce_app
+# E-Commerce Mobile App
 
-A new Flutter project.
+Welcome to the E-Commerce Mobile App! This application is built with Flutter and utilizes the Free Fake REST API from DummyJSON for placeholder JSON data.
+
+## Features
+
+- User-friendly interface for browsing products
+- Product details page
+- Shopping cart functionality
+- Search functionality for products
+- Integration with DummyJSON API for realistic data
+
+## Technologies Used
+
+- **Flutter**: A UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+- **Dart**: The programming language used for Flutter development.
+- **DummyJSON**: A free fake REST API for placeholder JSON data.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before you begin, ensure you have met the following requirements:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine
+- An IDE (e.g., Visual Studio Code, Android Studio) with Flutter and Dart plugins
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# e_commerce_mobile_app
->>>>>>> b8d233132770397da6e97b914473001df9d49c7c
-=======
-# e_commerce_mobile_app
-flutter with Free Fake REST API for Placeholder JSON Data from DummyJSON
->>>>>>> e0bcc1a4310ed30ad1e8f76e4d56bd7e1030c757
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/YomRTZ/e_commerce_mobile_app.git
